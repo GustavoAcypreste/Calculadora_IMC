@@ -1,6 +1,6 @@
 nome = input("Digite o seu nome: ")
-idade = input("Digite a sua idade em anos: ")
-peso = input("Digite o seu peso em kg: ")
+idade = input("Digite sua idade em anos: ")
+peso = input("Digite seu peso em kg: ")
 altura = input("Digite a sua altura em metros: ")
 
 print(nome, idade, sep=" ")
