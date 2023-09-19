@@ -1,6 +1,6 @@
 nome = input("Digite o seu nome: ")
 idade = input("Digite sua idade em anos: ")
-opcao = int(input("informe seu sexo: [1] masculino n/[2] feminino: "))
+opcao = int(input("informe seu sexo: [1] masculino \n[2] feminino: "))
 peso = input("Digite seu peso em kg: ")
 altura = input("Digite a sua altura em metros: ")
 
